@@ -66,8 +66,8 @@
     "url-loader": "^1.1.1"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
   },
   "dependencies": {
     "@babel/polyfill": "^7.2.5",
